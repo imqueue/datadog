@@ -47,7 +47,7 @@
   },
   "homepage": "https://imqueue.org/",
   "dependencies": {
-    "@imqueue/rpc": "^3.4.1",
+    "@imqueue/rpc": "^3.7.2",
     "@types/node": "^26.1.1",
     "dd-trace": "^6.6.0"
   },
